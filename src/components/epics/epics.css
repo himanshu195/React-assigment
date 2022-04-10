@@ -1,0 +1,27 @@
+.main{
+    padding: 25px;
+}
+
+.epic_cls{
+    margin-bottom: 20px;
+    font-size: 25px !important;
+}
+.epic_cls_save{
+    margin-bottom: 20px;
+    font-size: 25px !important;
+    float: right;
+    cursor: pointer;
+}
+
+.flot_right{
+    float: right;
+    font-size: 15px !important;
+    margin-top: 4px;
+}
+
+.bg_cls{
+    cursor:pointer !important;
+    position: relative;
+    top: -2px;
+    left: -6px;
+}
